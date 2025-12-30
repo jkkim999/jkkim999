@@ -22,4 +22,7 @@
 - 📚 IT Book Recommendation & API Ingestion
 
 
+## ✍ Devlog
+- 기록하며 성장하는 개발자
+- 설계 / 트러블슈팅 / 회고 중심
 
