@@ -26,3 +26,8 @@
 - 기록하며 성장하는 개발자
 - 설계 / 트러블슈팅 / 회고 중심
 
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,oracle,git,github" />
+</p>
+
