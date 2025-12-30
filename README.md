@@ -16,4 +16,10 @@
 ## 🔥 GitHub Hits
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F본인ID&count_bg=%2379C83D&title_bg=%23555555&title=hits)
 
+## 📌 Main Projects
+- 🛒 DashiMarket (Spring Boot + Oracle)
+- ☕ Developer Cafe Recommendation System
+- 📚 IT Book Recommendation & API Ingestion
+
+
 
