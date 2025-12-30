@@ -31,3 +31,40 @@
   <img src="https://skillicons.dev/icons?i=java,spring,python,oracle,git,github" />
 </p>
 
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+### 🛒 DashiMarket  
+Spring Boot 기반 중고/상품 마켓  
+⭐ 리뷰 · 신고 · 관리자 대시보드
+
+</td>
+<td width="50%" align="center">
+
+### ☕ Dev Cafe Map  
+프로그래밍하기 좋은 카페 추천  
+📍 Google / Naver API  
+📊 리뷰 점수화
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 📚 IT Book Recommender  
+Aladin / Naver API 수집  
+🔄 스케줄러 자동화
+
+</td>
+<td width="50%" align="center">
+
+### ✍ Devlog  
+설계 · 트러블슈팅 · 회고  
+📖 기록하는 개발자
+
+</td>
+</tr>
+</table>
+
